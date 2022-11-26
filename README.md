@@ -15,3 +15,5 @@ Code_B: calibration via distributions
 Code_C: calibration via PSD fitting
 
 Code_D: time evolutions
+
+PSD: Power Spectral Density
